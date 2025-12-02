@@ -1,0 +1,14 @@
+Api:
+خاص بعرض كل السور بعدد اياتها ونزعها مكي ولا مدني
+ https://api.alquran.cloud/v1/surah 
+السور المسموعة
+2.https://api.alquran.cloud/v1/ayah/1:1/ar.alafasy 
+عرض ايات سورة محددة
+ https://api.alquran.cloud/v1/surah/2/ar.asad
+تفسير ايات سورة محددة
+https://quranenc.com/api/v1/translation/sura/arabic_moyassar/1
+مواقيت الصلاة
+https://api.aladhan.com/v1/timings/02-12-2025?latitude=24.7136&longitude=46.6753&method=4%22
+
+اذكار 
+https://pub.dev/packages/muslim_data_flutter
